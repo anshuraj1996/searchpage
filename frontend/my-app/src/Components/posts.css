@@ -1,0 +1,45 @@
+.inner{
+    margin-left: 20ch;
+
+}
+.search{
+    border-radius: 30px;
+
+
+}
+
+
+.for-icon{
+    font:5px;
+    
+    color: black;
+    /* opacity: 1; */
+   
+
+}
+.for-name{
+    font:5px;
+   
+    color: black;
+    /* opacity: 1; */
+    margin-left: 5ch;
+}
+.for-camera{
+    font:5px;
+   
+    color: black;
+    /* opacity: 1; */
+    margin-left: 5ch;
+
+}
+
+.for-header{
+    border-bottom: solid black 1px;
+}
+.for-icon,.for-camera,.for-name{
+    display: inline-block;
+}
+.p{
+    margin-right: 40%;
+}
+
